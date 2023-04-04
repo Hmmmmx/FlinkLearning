@@ -1,0 +1,6 @@
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/BatchWordCountApp.java
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/function/MyMapFunction.java
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/StreamWCApp.java
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/FlinkSocketWCApp.java
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/function/MyFlatMapFunction.java
+/home/hmx/IdeaProjects/flink/flink-basic/src/main/java/com/flink/basic/BatchWordCountAppV2.java
